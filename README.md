@@ -1,2 +1,2 @@
 # directory-structure
-Prints a directory structure tree of the inputt directory
+Prints a directory structure tree of the input directory
